@@ -1,11 +1,11 @@
 # Chatbot System
 
-Team members
-Sara Mohamed Hassan 
-Omnia Salman
+## Team members
+Sara Mohamed Hassan -
+Omnia Salman -
 Mariam Mohsen
 
-#Supervisor
+## Supervisor
  Eng/Mohamed Agoor
 
 This project implements a conversational AI chatbot that provides real-time assistance to users in various contexts. The system leverages advanced **Natural Language Processing (NLP)** models and is deployed using **FastAPI** to ensure seamless, real-time interactions.
