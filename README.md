@@ -10,6 +10,9 @@ Mariam Mohsen
 
 This project implements a conversational AI chatbot that provides real-time assistance to users in various contexts. The system leverages advanced **Natural Language Processing (NLP)** models and is deployed using **FastAPI** to ensure seamless, real-time interactions.
 
+## Presentation 
+ https://gamma.app/docs/Chatbot-System-Proposal-0dumrm6kdx13w4j?mode=doc
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data Collection and Preprocessing](#data-collection-and-preprocessing)
